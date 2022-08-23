@@ -1,0 +1,7 @@
+Jelly Garden is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. Unity Reorderable List
+    - MIT license 
+    - License details available here: https://github.com/cfoulston/Unity-Reorderable-List/blob/master/LICENSE
+
+
